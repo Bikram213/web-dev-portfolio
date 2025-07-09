@@ -153,3 +153,24 @@ nav ul{
    border-radius: 5px;
    
  }
+
+ /* resume style */
+
+ .resume-container{
+   display: flex;
+   gap: 24px;
+ }
+ .experience-sub-title{
+   font-size: 20px;
+   font-weight: bold;
+   margin-bottom:20px;
+ }
+ .experience-description, .experience-sub-title{
+   color: #757575;
+ }
+ .resume hr{
+   margin: 30px;
+ }
+.resume-download-cv{
+   margin-top: 50px;
+}
